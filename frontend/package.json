@@ -1,0 +1,11 @@
+{
+  "name": "frontend",
+  "module": "index.ts",
+  "type": "module",
+  "devDependencies": {
+    "elysia": "^1.1.26"
+  },
+  "dependencies": {
+    "@elysiajs/eden": "^1.1.3"
+  }
+}
